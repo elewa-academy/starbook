@@ -36,3 +36,14 @@ Data relations refer to how different types of data (aka. different schemas) rel
     
 Those are the 5 steps of the *book series. For more detailed descriptions of each one, goto their respective README's  
   
+---
+
+## Resources  
+
+* [data modeling](https://github.com/elewa-academy/data-modeling)  
+
+
+
+___
+___
+### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
